@@ -1,0 +1,16 @@
+{
+  "name": "p2p_video_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js:bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "budo": "^11.5.0",
+    "getusermedia": "^2.0.1",
+    "simple-peer": "^9.1.2"
+  }
+}
